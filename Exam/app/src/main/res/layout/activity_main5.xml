@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity5">
+    <TextView
+        style="@style/entet"
+        android:text="@string/edi"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spin">></Spinner>
+    <EditText
+        style="@style/aff"
+        android:id="@+id/lib"
+        android:hint="@string/hintLib"/>
+    <EditText
+        style="@style/aff"
+        android:id="@+id/fam"
+        android:hint="@string/hintFa"/>
+    <EditText
+        style="@style/aff"
+        android:id="@+id/pra"
+        android:inputType="numberDecimal"
+        android:hint="@string/hintpa"/>
+    <EditText
+        style="@style/aff"
+        android:id="@+id/prv"
+        android:inputType="numberDecimal"
+        android:hint="@string/hintpv"/>
+    <Button
+        style="@style/btn"
+        android:id="@+id/edit"
+        android:text="@string/btnEdi"/>
+
+</LinearLayout>

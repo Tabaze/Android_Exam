@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/entet"
+        android:text="@string/ent"
+        />
+    <Button
+        style="@style/btn"
+        android:text="@string/all"
+        android:id="@+id/btnListe"
+        android:onClick="acceder"
+        tools:ignore="OnClick" />
+    <Button
+        style="@style/btn"
+        android:text="@string/fiche"
+        android:id="@+id/btnFiche"
+        android:onClick="acceder"
+        />
+    <Button
+        style="@style/btn"
+        android:text="@string/add"
+        android:id="@+id/btnPro"
+        android:onClick="acceder"
+        />
+    <Button
+        style="@style/btn"
+        android:text="@string/edi"
+        android:id="@+id/btnEdi"
+        android:onClick="acceder"
+        />
+
+</LinearLayout>

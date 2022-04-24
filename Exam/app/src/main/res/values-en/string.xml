@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="ent">General Menu</string>
+    <string name="all">Products list</string>
+    <string name="fiche">Product Details</string>
+    <string name="add">Add Product</string>
+    <string name="edi">Update Product</string>
+    <string name="msgAdd">Added with success</string>
+    <string name="msgErr">Fill all the blanks</string>
+    <string name="msgEdi">Updated with success</string>
+    <string name="btnAjou">Add</string>
+    <string name="btnEdi">Update</string>
+    <string name="hintLib">wording ...</string>
+    <string name="hintFa">Familly ...</string>
+    <string name="hintpa">buying price ...</string>
+    <string name="hintpv">sell price ...</string>
+</resources>

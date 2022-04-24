@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="ent">Menu Generale</string>
+    <string name="all">Liste des produits</string>
+    <string name="fiche">Fiche des produit</string>
+    <string name="add">Ajouter produits</string>
+    <string name="edi">Editer produit</string>
+    <string name="msgAdd">Ajouter Avec success</string>
+    <string name="msgErr">Remplir tous les champs</string>
+    <string name="msgEdi">Modifier avec Success</string>
+    <string name="btnAjou">Ajouter</string>
+    <string name="btnEdi">Modifier</string>
+    <string name="hintLib">Libelle</string>
+    <string name="hintFa">Famille</string>
+    <string name="hintpa">Prix d achat</string>
+    <string name="hintpv">Prix de vente</string>
+</resources>
